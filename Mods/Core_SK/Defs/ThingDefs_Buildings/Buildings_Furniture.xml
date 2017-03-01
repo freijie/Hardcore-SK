@@ -400,7 +400,6 @@
 			<texPath>Things/Building/Furniture/Armchairs/EggArmchair</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
-			<drawSize>(3.5)</drawSize>
 			<shadowData>
 				<volume>(0.6, 0.6, 0.6)</volume>
 			</shadowData>
